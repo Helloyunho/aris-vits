@@ -1,3 +1,5 @@
+# From https://github.com/kdrkdrkdr/AronaSpeaker/blob/main/ms_istft_vits/text/cleaners.py
+
 import re
 from text.japanese import japanese_to_romaji_with_accent
 from text.symbols import symbols
